@@ -32,7 +32,7 @@ function generatePassword() {
 
 
     // generate random length between minLen and maxLen
-    var passwordLen = Math.round(Math.random() * 10 + (maxLen - minLen))
+    var passwordLen = Math.round(Math.random() * 10 + (maxLen - minLen));
     // random chars to be included in the password
     const lowerCaseCharacters = 'akdkerurytmvnbxfertiyotirueyygdfscxbchgfgyttioypyitiuryeggdhfyadqewtcvzcxmnb'
 
