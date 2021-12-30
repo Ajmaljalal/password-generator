@@ -4,5 +4,5 @@ This application generates a random password based on user-selected criteria. Th
 
 The following image demonstrates the application UI:
 
-![password-generator-schreenshot](password-generator.png)
+![password-generator-schreenshot](https://github.com/Ajmaljalal/password-generator/blob/master/passwod-generator.png)
 
